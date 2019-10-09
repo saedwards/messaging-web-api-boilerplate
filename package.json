@@ -1,0 +1,30 @@
+{
+  "name": "messaging-api",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Shane Edwards <shane.edwards9@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@slack/client": "^4.8.0",
+    "apollo-datasource-rest": "^0.2.1",
+    "apollo-server": "^2.2.2",
+    "apollo-server-express": "^2.2.6",
+    "cookie": "^0.3.1",
+    "cookie-parser": "^1.4.3",
+    "cors": "^2.8.5",
+    "deepmerge": "^3.2.0",
+    "express": "^4.16.4",
+    "express-graphql": "^0.7.1",
+    "express-healthcheck": "^0.1.0",
+    "express-session": "^1.15.6",
+    "graphql": "^14.0.2",
+    "graphql-server-express": "^1.4.0",
+    "graphql-subscriptions": "^1.0.0",
+    "lodash": "^4.17.11",
+    "pg": "^7.8.2",
+    "subscriptions-transport-ws": "^0.9.15"
+  }
+}
