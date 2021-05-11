@@ -23,7 +23,7 @@
     "graphql": "^14.6.0",
     "graphql-server-express": "^1.4.1",
     "graphql-subscriptions": "^1.1.0",
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.21",
     "pg": "^7.18.2",
     "subscriptions-transport-ws": "^0.9.16"
   }
